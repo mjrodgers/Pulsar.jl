@@ -1,3 +1,8 @@
+# Pulsar
+
+I'm attempting to bring Juno to the Pulsar-edit, currently a work-in-progress.
+
+
 # Atom
 
 **Attention**: We have decided to join forces with the [Julia extension for VSCode](https://github.com/julia-vscode/julia-vscode). As such, this Atom-based plugin is effectively in “maintenance-only mode” and we expect to only work on bug fixes in the future.
