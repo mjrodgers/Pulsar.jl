@@ -1,11 +1,10 @@
-# Pulsar
+# Pulsar 
 
-I'm attempting to bring Juno to the Pulsar-edit, currently a work-in-progress.
+The original Juno team decided to join forces with the [Julia extension for VSCode](https://github.com/julia-vscode/julia-vscode). As such, the Atom-based plugin has been in a “maintenance-only mode” for many years.
 
+I'm attempting to bring this up to date to make it work well under the new [Pulsar-edit](https://pulsar-edit.dev) editor. At the moment this involves mostly bumping dependencies.
 
-# Atom
-
-**Attention**: We have decided to join forces with the [Julia extension for VSCode](https://github.com/julia-vscode/julia-vscode). As such, this Atom-based plugin is effectively in “maintenance-only mode” and we expect to only work on bug fixes in the future.
+To get started, install the [uber-juno](https://github.com/JunoLab/uber-juno) package in Pulsar, it will likely fail to install the `julia-client` package, you should hopefully be able to install that from [my fork](https://github.com/mjrodgers/atom-julia-client).
 
 ----
 
